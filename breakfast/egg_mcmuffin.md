@@ -14,6 +14,6 @@
   * If using sausage or bacon, throw that on skillet as well
 * place egg on muffins
 * place cheese on egg
-* Follow-up with sausage if eneded
-* put other half of muffin on,=
+* Follow-up with sausage if needed
+* put other half of muffin on the top
 * Enjoy!
