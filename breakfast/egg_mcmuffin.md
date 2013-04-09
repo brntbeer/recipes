@@ -1,3 +1,8 @@
-### This is where my recipe for egg mcmuffins live.
+### Egg McMuffin
 
-(Needs help!)
+## Ingredients
+
+* egg
+* English Muffins
+* cheese
+* (optional) bacon and / or sausage
